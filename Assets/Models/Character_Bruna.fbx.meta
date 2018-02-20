@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 7f85a1eebc9a74d118986eaf8568d193
+timeCreated: 1519136541
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm.l
+    100002: arm.r.001
+    100004: arm2.l
+    100006: arm2.r.001
+    100008: Armature
+    100010: Bone.002
+    100012: Bone.003
+    100014: Bone.003_end
+    100016: Bone.004
+    100018: Bone.005
+    100020: Camera
+    100022: Character
+    100024: //RootNode
+    100026: chest
+    100028: foot.l
+    100030: foot.l_end
+    100032: foot.r.001
+    100034: foot.r.001_end
+    100036: hand.l
+    100038: hand.l_end
+    100040: hand.r.001
+    100042: hand.r.001_end
+    100044: hip
+    100046: ik.pole1.l
+    100048: ik.pole1.l_end
+    100050: ik.pole1.r.001
+    100052: ik.pole1.r.001_end
+    100054: ik.target1.l
+    100056: ik.target1.l_end
+    100058: ik.target1.r.001
+    100060: ik.target1.r.001_end
+    100062: ik.target2.l
+    100064: ik.target2.l_end
+    100066: ik.target2.r.001
+    100068: ik.target2.r.001_end
+    100070: leg.l
+    100072: leg.r.001
+    100074: leg2.l
+    100076: leg2.r.001
+    100078: Pigtails
+    100080: Plane
+    100082: Point
+    100084: Point.001
+    400000: arm.l
+    400002: arm.r.001
+    400004: arm2.l
+    400006: arm2.r.001
+    400008: Armature
+    400010: Bone.002
+    400012: Bone.003
+    400014: Bone.003_end
+    400016: Bone.004
+    400018: Bone.005
+    400020: Camera
+    400022: Character
+    400024: //RootNode
+    400026: chest
+    400028: foot.l
+    400030: foot.l_end
+    400032: foot.r.001
+    400034: foot.r.001_end
+    400036: hand.l
+    400038: hand.l_end
+    400040: hand.r.001
+    400042: hand.r.001_end
+    400044: hip
+    400046: ik.pole1.l
+    400048: ik.pole1.l_end
+    400050: ik.pole1.r.001
+    400052: ik.pole1.r.001_end
+    400054: ik.target1.l
+    400056: ik.target1.l_end
+    400058: ik.target1.r.001
+    400060: ik.target1.r.001_end
+    400062: ik.target2.l
+    400064: ik.target2.l_end
+    400066: ik.target2.r.001
+    400068: ik.target2.r.001_end
+    400070: leg.l
+    400072: leg.r.001
+    400074: leg2.l
+    400076: leg2.r.001
+    400078: Pigtails
+    400080: Plane
+    400082: Point
+    400084: Point.001
+    2000000: Camera
+    2300000: Character
+    2300002: Pigtails
+    2300004: Plane
+    2300006: //RootNode
+    3300000: Character
+    3300002: Pigtails
+    3300004: Plane
+    3300006: //RootNode
+    4300000: Plane
+    4300002: Pigtails
+    4300004: Character
+    10800000: Point
+    10800002: Point.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Character
+    second: {fileID: 2100000, guid: f847c14def5e24e78a37821c84bb18bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3a448967444944a5f911c59d09f11f04, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
