@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 2543
     height: 1239
-  m_MinSize: {x: 681, y: 492}
-  m_MaxSize: {x: 14004, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 74
+  controlID: 73
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 75
+  controlID: 74
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 76
+  controlID: 50
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,8 +253,8 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 1239
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -321,9 +321,9 @@ MonoBehaviour:
     height: 947
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 12f3ffff
-    m_LastClickedID: -3310
-    m_ExpandedIDs: 20fbffff00000000aa270000
+    m_SelectedIDs: 36280000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 12fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -373,14 +373,14 @@ MonoBehaviour:
     width: 1975
     height: 947
   m_SceneLighting: 1
-  lastFramingTime: 1371.9300600290298
+  lastFramingTime: 390.607115983963
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.7577462, y: 4.9684873, z: -2.076479}
+    m_Target: {x: -2.0415988, y: 4.963328, z: -2.1648736}
     speed: 2
-    m_Value: {x: 1.7577462, y: 4.9684873, z: -2.076479}
+    m_Value: {x: -2.0415988, y: 4.963328, z: -2.1648736}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -403,13 +403,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.00042761123, y: 0.99477774, z: -0.10213196, w: -0.0041781496}
+    m_Target: {x: 0.04174932, y: -0.943222, z: 0.12984003, w: 0.30296335}
     speed: 2
-    m_Value: {x: -0.00042760457, y: 0.9947622, z: -0.10213037, w: -0.0041780844}
+    m_Value: {x: 0.041748155, y: -0.9431957, z: 0.12983641, w: 0.30295488}
   m_Size:
-    m_Target: 15.048805
+    m_Target: 22.48877
     speed: 2
-    m_Value: 15.048805
+    m_Value: 22.48877
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -443,8 +443,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 211
-    y: 94
+    x: 213
+    y: 97
     width: 1975
     height: 947
 --- !u!114 &16
@@ -485,19 +485,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets/Textures
   m_ViewMode: 1
   m_StartGridSize: 80
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Textures
   m_LastFoldersGridSize: 80
   m_LastProjectPath: /Users/elysia/Pictures/Game Dev/Wanderverse
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a270000
-    m_LastClickedID: 10026
-    m_ExpandedIDs: 00000000142700001828000000ca9a3bffffff7f
+    m_SelectedIDs: 50270000
+    m_LastClickedID: 10064
+    m_ExpandedIDs: 000000001e270000ec2700002828000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001427000018280000
+    m_ExpandedIDs: 000000001e270000ec270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
