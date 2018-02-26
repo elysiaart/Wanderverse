@@ -9,18 +9,24 @@ ModelImporter:
     100002: Mace
     100004: Room
     100006: Mace.001
+    100008: BrunasRoom
+    100010: Camera
     400000: //RootNode
     400002: Mace
     400004: Room
     400006: Mace.001
+    400008: BrunasRoom
+    400010: Camera
     2300000: //RootNode
     2300002: Mace
     2300004: Room
     2300006: Mace.001
+    2300008: BrunasRoom
     3300000: //RootNode
     3300002: Mace
     3300004: Room
     3300006: Mace.001
+    3300008: BrunasRoom
     4300000: Room
     4300002: Mace
     4300004: Mace.001
