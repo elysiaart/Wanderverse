@@ -31,6 +31,7 @@ ModelImporter:
     4300002: Mace
     4300004: Mace.001
     4300006: BrunasRoom
+    4300008: Rooms
   externalObjects:
   - first:
       type: UnityEngine:Material
