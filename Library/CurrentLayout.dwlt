@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 26
+  controlID: 50
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 27
+  controlID: 51
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 28
+  controlID: 52
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,7 +323,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 8efbffff00000000c4270000
+    m_ExpandedIDs: 8efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -373,14 +373,14 @@ MonoBehaviour:
     width: 1975
     height: 947
   m_SceneLighting: 1
-  lastFramingTime: 822.2568999528885
+  lastFramingTime: 7268.289710998535
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 13.286432, y: -2.056656, z: 5.617236}
+    m_Target: {x: -1.0962987, y: 5.444893, z: 33.228172}
     speed: 2
-    m_Value: {x: 13.286432, y: -2.056656, z: 5.617236}
+    m_Value: {x: -1.0962987, y: 5.444893, z: 33.228172}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -403,13 +403,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.29438728, y: 0.68250644, z: -0.3544796, w: 0.56756073}
+    m_Target: {x: 0.26833478, y: -0.0349084, z: 0.009794928, w: 0.9627952}
     speed: 2
-    m_Value: {x: 0.29434904, y: 0.68241775, z: -0.35443357, w: 0.567487}
+    m_Value: {x: -0.26833478, y: 0.0349084, z: -0.009794928, w: -0.96279514}
   m_Size:
-    m_Target: 64.47325
+    m_Target: 7.7157955
     speed: 2
-    m_Value: 64.47325
+    m_Value: 7.7157955
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -485,19 +485,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Models
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 80
   m_LastFolders:
-  - Assets/Models
+  - Assets
   m_LastFoldersGridSize: 80
   m_LastProjectPath: /Users/elysia/Pictures/Game Dev/Wanderverse
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 10270000
-    m_LastClickedID: 10000
-    m_ExpandedIDs: 000000000a2700002e2800003028000000ca9a3bffffff7f
+    m_SelectedIDs: 0a270000
+    m_LastClickedID: 9994
+    m_ExpandedIDs: 000000000a270000422800004428000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a2700002e28000030280000
+    m_ExpandedIDs: 000000000a2700004228000044280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
